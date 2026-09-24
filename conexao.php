@@ -1,7 +1,7 @@
 <?php 
 
 $host = "192.168.10.16";
-$senha = "50358440807";
+$senha = "SUA_SENHA";
 $usuario = "postgres";
 $banco = "lojasegundo";
 
